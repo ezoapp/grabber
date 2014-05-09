@@ -1,0 +1,29 @@
+{
+  "name": "grabber",
+  "version": "0.1.0",
+  "main": "lib/grabber.js",
+  "description": "The best module ever.",
+  "bugs": "https://github.com/ezoapp/grabber/issues",
+  "author": {
+    "name": "mingzeke",
+    "email": "mingze.ke@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezoapp/grabber"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [],
+  "devDependencies": {},
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "request": "~2.34.0",
+    "cheerio": "~0.15.0",
+    "glob": "~3.2.9",
+    "wrench": "~1.5.8",
+    "hashids": "~0.3.3"
+  }
+}
